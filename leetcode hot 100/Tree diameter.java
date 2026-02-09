@@ -7,7 +7,7 @@ import java.util.Scanner;
 // 2. 然后，我们需要从节点Maxdistance开始，第二次DFS，更新距离数组，直到所有节点都被遍历到。
 // 3. 最后，我们可以计算出直径，即距离数组中最大值。
 
-public class Main
+public class Solution
 {
 
     static int n, Maxdistance;
